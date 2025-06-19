@@ -1,9 +1,5 @@
 package com.blazeDemo.helper;
 
-// src/test/java/com/blazeDemo/helper/
-// src/test/java/com/blazeDemo/pages/
-// src/test/java/com/blazeDemo/tests/
-
 import java.time.Duration;
 
 import org.openqa.selenium.By;
